@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-image: url("background.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 50px;
+}
+
+h1 {
+  font-size: 5rem;
+  text-align: center;
+  padding: 40px 0 0;
+}
+
+.clicker {
+  width: 200px;
+  height: 200px;
+  display: block;
+  border-radius: 100%;
+  border: 2px solid;
+  margin: 50px auto;
+  font-size: 2rem;
+}
+
+.upgrade-btn {
+  height: 60px;
+  margin: 5px 20px;
+  padding: 10px 20px;
+}
+
+footer {
+  margin-top: 20px;
+}
