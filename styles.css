@@ -1,9 +1,10 @@
 body {
   text-align: center;
   background-image: url("background.jpg");
-  height: 100%;
   background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
   padding-bottom: 50px;
 }
 
