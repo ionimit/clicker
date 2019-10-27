@@ -29,7 +29,7 @@ $(".clickboost").click(function() {
   if (score >= boostCost) {
     score = score - boostCost;
     boostCost = boostCost * 2;
-    spc = spc + 2;
+    spc = spc + 1;
   } else {
     alert("Not Enough Points");
   }
